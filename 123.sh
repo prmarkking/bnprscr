@@ -1,7 +1,7 @@
 clear
 echo -e "$TITLE"
 echo -e ""
-echo -e "$GRN1 MultiLogin"
+echo -e "$GRN1 [1]MultiLogin"
 echo -e "$GRN2 Restart Services"
 echo -e "$GRN3 Change Ports"
 echo -e "$GRN4 Reboot"
